@@ -4,7 +4,7 @@
 The main objective of this project is to analyze the Titanic survival dataset using statistical methods and machine learning techniques. By examining various factors such as passenger demographics, ticket class, and cabin location, we aim to understand the determinants of survival on the Titanic. Additionally, we'll develop machine learning models to predict passenger survival based on available attributes.
 
 # Dataset:
-The dataset used in this project is the Titanic dataset, which contains information about passengers aboard the Titanic, including whether they survived or not, as well as attributes such as age, sex, ticket class, fare, cabin, and port of embarkation. This dataset is commonly used in data science and machine learning tutorials and competitions.
+The dataset used in this project is the Titanic dataset, which contains information about passengers aboard the Titanic, including whether they survived or not, as well as attributes such as age, sex, ticket class, fare, cabin, and port of embarkation.
 
 # Methodology:
 * Data Exploration and Preprocessing:
