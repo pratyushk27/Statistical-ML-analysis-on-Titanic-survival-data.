@@ -37,6 +37,25 @@ The dataset used in this project is the Titanic dataset, which contains informat
 - Evaluate the models' predictive performance using cross-validation or holdout validation.
 - Compare the performance of different models and select the best-performing one.
 
+# Deliverables:
+
+- Exploratory Data Analysis (EDA) Report:
+Summary of the dataset characteristics and initial insights.
+Visualizations depicting distributions, correlations, and survival rates.
+- Statistical Analysis Report:
+Results of statistical tests and analyses conducted on the dataset.
+Findings regarding significant factors influencing survival.
+- Machine Learning Model Report:
+Description of the selected models and their implementation details.
+Evaluation metrics for each model and comparison of their performance.
+Interpretation of model results and insights into feature importance.
+- Final Presentation:
+Presentation slides summarizing key findings, insights, and recommendations.
+Visualizations and charts to support the analysis.
+# Tools and Technologies:
+Python programming language
+Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+Jupyter Notebook or any other Python IDE
 # Conclusion:
 By conducting a comprehensive analysis of the Titanic survival dataset, this project aims to provide insights into the factors influencing passenger survival and develop predictive models for future applications. This project serves as a demonstration of data analysis techniques, statistical methods, and machine learning algorithms applied to real-world datasets.
 
