@@ -7,8 +7,7 @@ The main objective of this project is to analyze the Titanic survival dataset us
 The dataset used in this project is the Titanic dataset, which contains information about passengers aboard the Titanic, including whether they survived or not, as well as attributes such as age, sex, ticket class, fare, cabin, and port of embarkation.
 
 # Methodology:
-* Data Exploration and Preprocessing:
-
+- Data Exploration and Preprocessing:
 - Load the dataset and perform initial exploratory data analysis (EDA).
 - Check for missing values, data types, and summary statistics.
 - Visualize the distribution of the target variable (Survived) and explore relationships with other variables using plots and charts.
